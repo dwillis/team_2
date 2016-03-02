@@ -1,0 +1,16 @@
+Team 2 ideas
+
+DC Metro incidents
+How often does DC Metro break down or has delays? What are the most common occurrences? Any interesting outliers? WMATA has data on rail incidentes and even elevator and escalator outages.
+
+
+Watching the skies
+There's always something interesting happening in space, and there is a lot of data about it. Can we tracks solar flares? Asteroids coming close to Earth? Interesting planet alignments? 
+
+
+
+Food inspections in Montgomery County
+How many restaurants have health violations? Which of them have been recently fined and what is the issue with them? Montgomery County has data about inspections being updated quite frequently (https://data.montgomerycountymd.gov/Health-and-Human-Services/Food-Inspection/5pue-gfbe
+
+
+
