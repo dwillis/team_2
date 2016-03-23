@@ -2,5 +2,5 @@ Two best ideas
 DC Metro incidents
 WMATA has APIs that return reported incidents. One of them reports Rail Incidents and the line in which they happen, with description of the incident type. The data is updated every 20 to 30 seconds. The minimum viable thing we could envision building are Twitter bots for each line that tweet out whenever an incident is happening in that line.
 
-Food inspections in Montgomery County
-The data for Montgomery County is available at data.montgomerycountymd.gov. The Food Inspection dataset shows us the name of restaurants inspected, the address, the date and result of inspection, and the areas in which the restaurant was compliant or not. The minimum viable thing we could envision building is a Twitter bot that tells people whenever a restaurant failed a health inspection, what area was non-compliant and whether or not the restaurant corrected that or was closed.
+Workflow: 
+https://docs.google.com/drawings/d/1cAQksFwpu1_csRzljfruvSmL4BKPtetGmdsyXIGZyYE/edit?usp=sharing 
